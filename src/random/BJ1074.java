@@ -29,7 +29,6 @@ public class BJ1074 {
     public static int r;
     public static int c;
 
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
